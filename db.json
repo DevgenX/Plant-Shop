@@ -1,0 +1,64 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Aloe",
+      "image": "./images/aloe.jpg",
+      "price": "69"
+    },
+    {
+      "id": 4,
+      "name": "Pothos",
+      "image": "./images/pothos.jpg",
+      "price": "69"
+    },
+    {
+      "id": 5,
+      "name": "Jade",
+      "image": "./images/jade.jpg",
+      "price": "69"
+    },
+    {
+      "id": 6,
+      "name": "Monstera Deliciosa",
+      "image": "./images/monstera.jpg",
+      "price": "32"
+    },
+    {
+      "id": 7,
+      "name": "Fiddle Leaf Fig",
+      "image": "./images/fiddle-leaf-fig.jpg",
+      "price": "69"
+    },
+    {
+      "name": "Pissum",
+      "image": "https://static0.thethingsimages.com/wordpress/wp-content/uploads/2019/04/aloe-plant.jpg",
+      "price": "69",
+      "id": 9
+    },
+    {
+      "name": "Sativum",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.5ViQZlv3oVso77BM1mz5uwHaE7&pid=Api&P=0",
+      "price": "69",
+      "id": 10
+    },
+    {
+      "name": "Calathea",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.ZCmnGy7HZPpyNZTFstpQ4wHaJ4&pid=Api&P=0",
+      "price": "69",
+      "id": 11
+    },
+    {
+      "id": 6,
+      "name": "Dorothy Chau",
+      "image": "./images/dor.jpg",
+      "price": "0"
+    },
+    {
+      "name": "FlatCoin",
+      "image": "http://japanalytic.com/wp-content/uploads/2016/07/ramen-2.jpg",
+      "price": "69",
+      "id": 12
+    }
+  ]
+}
